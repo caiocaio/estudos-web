@@ -20,7 +20,3 @@ axios.get(url).then(response =>{
     .reduce(menorSalario)
     console.log(func)
 })
-
-
-
-
